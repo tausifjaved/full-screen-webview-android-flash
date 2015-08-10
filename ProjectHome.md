@@ -1,0 +1,1 @@
+Fix for Android pluginfullscreenholder
